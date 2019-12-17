@@ -1,11 +1,11 @@
 # selenium-healapp-automation
-##First Time push source code from local desktop to git repo
 
+## First Time push source code from local desktop to git repo
 >git \
 >git status
 ## Make sure initialize local repo
 > git init
-## go to github and create repo if not exist. make sure repo name is same
+## Go to github and create repo, if not exist.
 >git remote add origin https://github.com/ramspassion/selenium-healapp-automation.git \
 >git status \
 >git add . (or) * \
