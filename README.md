@@ -1,6 +1,6 @@
 # selenium-healapp-automation
 
-## First Time push source code from local desktop to git repo
+## First time push source code from local desktop to git repo
 >git \
 >git status
 ## Make sure initialize local repo
