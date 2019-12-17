@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="IdentityHub Suite" >
+    <test name="IdentityHub Test-Chrome">
+        <parameter name="browser" value="chrome"/>  
+		<classes>
+ 			<class name="com.avon.healapp.test.ProductsServicesTest" />
+		</classes>
+	</test>    
+
+</suite>
